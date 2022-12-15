@@ -1,4 +1,4 @@
-# Hey, My name is , A Backend developer
+# Hey, i'm Eduardo Sousa, and i'm a Software Developer
  
  ```
   const me = {
