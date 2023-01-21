@@ -1,7 +1,6 @@
 # Hey, i'm Eduardo Sousa, and i'm a Software Developer
  
  ```
-  Copy code
 class Me {
     public:
         string name;
