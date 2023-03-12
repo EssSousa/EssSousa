@@ -5,13 +5,13 @@ public class Me
 {
     public string Name;
     public int Age;
-    public List<string> Languages;
+    public List<string> Technologies;
 
     public Me()
     {
         Name = "Eduardo";
         Age = 16;
-        Languages = new List<string>() { "javascript", "html", "react", "css", "c++", "c#", "python" };
+        Technologies = new List<string>() { "javascript", "html", "react", "css", "c++", "c#", "python" };
     }
 }
 
