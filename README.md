@@ -1,18 +1,20 @@
 # Hey, i'm Eduardo Sousa, and i'm a Software Developer
  
  ```
-class Me {
-    public:
-        string name;
-        int age;
-        vector<string> languages;
+public class Me
+{
+    public string Name;
+    public int Age;
+    public List<string> Languages;
 
-        Me() {
-            name = "Eduardo";
-            age = 16;
-            languages = {"javascript", "html", "css", "c++", "python"};
-        }
-};
+    public Me()
+    {
+        Name = "Eduardo";
+        Age = 16;
+        Languages = new List<string>() { "javascript", "html", "react", "css", "c++", "c#", "python" };
+    }
+}
+
 
 
 
