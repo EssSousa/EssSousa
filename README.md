@@ -11,7 +11,7 @@ public class Me
     {
         Name = "Eduardo";
         Age = 16;
-        Technologies = new List<string>() { "javascript", "html", "react", "css", "c++", "c#", "python" };
+        Technologies = new List<string>() { "javascript", "html", "react", "css", "c++", "c#", "python", "php" };
     }
 }
 
