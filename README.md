@@ -27,7 +27,3 @@ public class Me {
 **Languages & Frameworks**
 
 ![Tech Stack](https://skillicons.dev/icons?i=js,nextjs,python,php)
-
-**Tools & Environment**
-
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux)
