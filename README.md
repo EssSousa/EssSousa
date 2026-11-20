@@ -6,16 +6,16 @@ public class Me {
     String name = "Eduardo Sousa";
     String role = "Software Developer";
 
-    List<String> technologies = List.of(
+    ArrayList<String> technologies = new ArrayList<>(Arrays.asList(
         "JavaScript",
         "Next.js",
         "Python",
         "PHP"
-    );
+    ));
 
-    public void build() {
+    public void evolve() {
         learn();
-        create();
+        build();
         improve();
     }
 }
