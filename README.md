@@ -1,6 +1,7 @@
-# Hey, i'm Eduardo Sousa, and i'm a Software Developer
- 
- ```
+
+# Hey, I'm Eduardo Sousa — Software Developer
+
+```java
 public class Me {
 
     String name = "Eduardo Sousa";
@@ -19,11 +20,14 @@ public class Me {
         improve();
     }
 }
+```
 
- ```
-  
-  <br/>
+## Tech Stack
 
+**Languages & Frameworks**
 
-  
-  
+![Tech Stack](https://skillicons.dev/icons?i=js,nextjs,python,php)
+
+**Tools & Environment**
+
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,linux)
