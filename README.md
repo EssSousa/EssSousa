@@ -1,24 +1,22 @@
 
 # Hey, I'm Eduardo Sousa — Software Developer
 
-```java
-public class Me {
+```typescript
+class Me {
+  readonly name: string = "Eduardo Sousa";
+  role: string = "Software Developer";
+  technologies: string[] = [
+    "JavaScript",
+    "Next.js",
+    "Python",
+    "PHP"
+  ];
 
-    String name = "Eduardo Sousa";
-    String role = "Software Developer";
-
-    ArrayList<String> technologies = new ArrayList<>(Arrays.asList(
-        "JavaScript",
-        "Next.js",
-        "Python",
-        "PHP"
-    ));
-
-    public void evolve() {
-        learn();
-        build();
-        improve();
-    }
+  public evolve(): void {
+    this.learn();
+    this.build();
+    this.improve();
+  }
 }
 ```
 
