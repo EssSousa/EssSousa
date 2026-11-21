@@ -1,22 +1,23 @@
 
 # Hey, I'm Eduardo Sousa — Software Developer
 
-```typescript
+```ts
 class Me {
-  readonly name: string = "Eduardo Sousa";
-  role: string = "Software Developer";
-  technologies: string[] = [
-    "JavaScript",
-    "Next.js",
-    "Python",
-    "PHP"
-  ];
+    name: string = "Eduardo Sousa";
+    role: string = "Software Developer";
 
-  public evolve(): void {
-    this.learn();
-    this.build();
-    this.improve();
-  }
+    technologies: string[] = [
+        "JavaScript",
+        "Next.js",
+        "Python",
+        "PHP"
+    ];
+
+    public evolve(): void {
+        this.learn();
+        this.build();
+        this.improve();
+    }
 }
 ```
 
