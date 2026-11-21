@@ -7,7 +7,7 @@ class Me {
     role: string = "Software Developer";
 
     technologies: string[] = [
-        "JavaScript",
+        "TypeScript",
         "Next.js",
         "Python",
         "PHP"
